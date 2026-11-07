@@ -1,0 +1,16 @@
+@charset "UTF-8";
+/* CSS Document */
+/*.parallax-content-1 div h1, .parallax-content-1 div h3{font-size: 46px}*/
+.custom-text-body{font-size: 14px;text-align: justify;text-justify: inter-word}
+#price_single_main span{font-size:30px}
+.main-menu > ul > li > a {font-size:14px!important;}
+.main-menu ul ul li a {font-size:14px!important}
+.about-logo{width:100%;max-width:500px;height:auto;margin:0 auto;display:block;}
+.c-image-logo{width: 250px;height: 174px;margin: 0 auto;margin-top: -10px;}
+.logo-home {width:auto;height:42px;margin-top:-5px;}
+.mt-home{margin-top:3px;}
+iframe{position:initial;width:100%;height:400px}
+.tour_container, .strip_all_tour_list{-webkit-border-radius: 3px;-moz-border-radius: 3px;border-radius: 3px;}
+.img_container{-webkit-border-top-left-radius: 3px;-webkit-border-top-right-radius: 3px;-moz-border-radius-topleft: 3px;-moz-border-radius-topright: 3px;border-top-left-radius: 3px;border-top-right-radius: 3px;}
+.img_list{-webkit-border-top-left-radius: 3px;-webkit-border-bottom-left-radius: 3px;-moz-border-radius-topleft: 3px;-moz-border-radius-bottomleft: 3px;border-top-left-radius: 3px;border-bottom-left-radius: 3px;}
+.parallax-content-1 {background: rgba(0,0,0,.3);}

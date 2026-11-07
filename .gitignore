@@ -1,0 +1,10 @@
+.DS_Store
+__pycache__/
+.playwright-mcp/
+
+# materiale di lavoro (non va pubblicato)
+mirror/
+extracted/
+*.zip
+*.tar.gz
+/*.png
