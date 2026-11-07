@@ -3,6 +3,7 @@ __pycache__/
 .playwright-mcp/
 
 # materiale di lavoro (non va pubblicato)
+docs-local/
 mirror/
 extracted/
 *.zip

@@ -27,11 +27,9 @@ python3 -m http.server 8765 -d site
 
 ## Deploy
 
-Guida completa con passaggi DNS e checklist di verifica:
-[`docs/deploy-github-pages.md`](docs/deploy-github-pages.md).
-
-Il workflow GitHub Actions è pronto in `.github/workflows/pages.yml`, il file
-`CNAME` viene generato automaticamente in `site/CNAME`.
+Il sito è servito da GitHub Pages tramite il workflow
+`.github/workflows/pages.yml`; il file `CNAME` viene generato automaticamente
+in `site/CNAME`.
 
 I link interni sono relativi al documento, quindi il sito funziona sia su
 `https://davideagostini.github.io/parcoecclesialetna/` sia sul dominio
